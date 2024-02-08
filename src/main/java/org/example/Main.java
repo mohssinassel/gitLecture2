@@ -7,7 +7,7 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome mohssin after pushing to remote");
-        System.out.printf("Hello and welcome mohssin after pushing ");
+        System.out.printf("Hello and welcome mohssin after pushing fe");
 
 
     }
